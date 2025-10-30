@@ -31,6 +31,7 @@ Vá para a pasta do projeto NextJS no frontend:
 Execute os scripts para iniciar o front e back em terminais diferentes:
 
 > `npm run dev` - frontend
+
 > `npm run api` - backend
 
 Se tudo correu bem, o projeto deve estar rodando normalmente.
