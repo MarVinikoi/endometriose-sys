@@ -15,7 +15,9 @@ Crie um ambiente virtual nomeado "endoSysVenv" com a ferramenta de sua preferên
 Acesse o ambiente virtual:
 
 > Linux - `source endoSysVenv/bin/activate`
+
 > Windows (CMD) - `endoSysVenv/Scripts/activate`
+
 > Windows (Powershell) - `endoSysVenv/Scripts/Activate.ps1`
 
 Instale os pacotes presentes no arquivo `requirements.txt`
